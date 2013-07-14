@@ -12,7 +12,7 @@ comments on all commits with adjusted scores, have seen significant improvements
 development team.
 
 To get started, drag <a href="javascript:(function(){var i=document.getElementById('codegrader-iframe')||document.createElement('iframe'),u=window.location.href.split('/');if(u[5]!=='commit'){alert('This only works on commit pages');return;};i.style.position='fixed';i.style.top='0px';i.style.right='10px';i.style.width='200px';i.style.height='800px';i.id='codegrader-iframe';i.src='http://codegrader.co/grade/'+u[3]+'/'+u[4]+'/'+u[6];if(!document.getElementById('codegrader-iframe'))document.body.appendChild(i);}());">
-this bookmarklet</a> to your toolbar, open a github commit page, and click.
+this bookmarklet</a> to your toolbar, and click it from a github commit page.
 
 Once you've graded one commit, you can access your dashboard at http://codegrader.co to view all your generated
 scorecards.
