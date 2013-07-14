@@ -6,7 +6,7 @@ CodeGrader
 ###Features
 
 * Customizable checklist for code reviews, available on all Github commit pages
-* Saved scores automatically generate scorecards for committing developer
+* Automatically generated scorecards for any developer whose commits you have graded
 * Scorecards available to grader via dashboard
 * Scorecards are shareable with the committing developer via direct link
 * Browse commits by repository
