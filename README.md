@@ -1,4 +1,4 @@
-CodeGrader
+CodeGrader - Github based code review tool
 ==========
 
 ##Track code quality using Github
